@@ -1,6 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
-
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Willian Hideaki kakihata. Atualmente, estou cursando Engenharia de Software. Sou apaixonado por tecnologia.
     <a href="https://github.com/WillianKakihata">
