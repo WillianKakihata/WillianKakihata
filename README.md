@@ -72,6 +72,14 @@ Me chamo Willian Hideaki Kakihata. Atualmente, estou cursando Engenharia de Soft
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Node" 
+    title="Node"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/download/303360/nodejs-logo.svg" 
+/>
 
 <br/>
 <br/>
