@@ -1,6 +1,6 @@
 **`Desenvolvedor FullStack`**
 
-Me chamo Willian Hideaki kakihata. Atualmente, estou cursando Engenharia de Software. Sou apaixonado por tecnologia.
+Me chamo Willian Hideaki Kakihata. Atualmente, estou cursando Engenharia de Software. Sou apaixonado por tecnologia.
 
 ---
 
