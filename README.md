@@ -1,4 +1,4 @@
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Back-end`**
 
 Me chamo Willian Hideaki Kakihata. Atualmente, estou cursando Engenharia de Software. Sou apaixonado por tecnologia.
 
